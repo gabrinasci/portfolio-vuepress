@@ -1,33 +1,33 @@
 {
-    "title": "Acme",
-    "description": "Creative Agency",
-    "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Acme",
-    "favicon": "favicon-32x32.png",
-    "navigation": [
-      {
-        "text": "Works",
-        "link": "/",
-        "position": "left",
-        "external": false
-      },
-      {
-        "text": "Instagram",
-        "link": "https://www.instagram.com/its.nwa",
-        "position": "left",
-        "external": true
-      },
-      {
-        "text": "Say hi!",
-        "link": "mailto:sayhi@mydomain.com",
-        "position": "right",
-        "external": true
-      },
-      {
-        "text": "Journal",
-        "link": "/journal/",
-        "position": "right",
-        "external": false
-      }
-    ]
-  }
+  "title": "Gabriele Nascimben | Portfolio",
+  "description": "graphic designer",
+  "logo": "/upload/logo.svg",
+  "footer": "Ⓒ 2021 - Gabriele Nascimben",
+  "favicon": "favicon-32x32.png",
+  "navigation": [
+    {
+      "text": "Works",
+      "link": "/",
+      "position": "left",
+      "external": false
+    },
+    {
+      "text": "Behance",
+      "link": "https://www.behance.net/g_nascimben",
+      "position": "left",
+      "external": true
+    },
+    {
+      "text": "Contatti",
+      "link": "mailto:gabri.nascimben@gmail.com",
+      "position": "right",
+      "external": true
+    },
+    {
+      "text": "Curriculum",
+      "link": "/journal/",
+      "position": "right",
+      "external": false
+    }
+  ]
+}
